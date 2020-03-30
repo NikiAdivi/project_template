@@ -1,1 +1,1 @@
-Wireframes for the website
+Wireframe for the website
